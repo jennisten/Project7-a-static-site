@@ -1,4 +1,4 @@
-# Portfolio projekt
+# Portfolio project
 This is a student project as a part of Treehouse Techdegree Fullstack JavaScript program.
 
 ## Project instructions
