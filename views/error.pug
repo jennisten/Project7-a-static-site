@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back to home page
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        h1= `${error.message}`
+
+        p.lead.text-light= `Oops, page not found. Status: ${error.status}.`
+
+        .portfolio-bio
+          p= `${error.stack}`

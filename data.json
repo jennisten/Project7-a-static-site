@@ -1,0 +1,106 @@
+{ "projects":
+	[
+		{
+			"id": "0",
+			"project_name": "Random Quote Generator",
+			"description": "Assignment: create an app that displays random famous quotes each time a button is clicked.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Random-Quote-generator/",
+			"github_link": "https://github.com/jennisten/Random-Quote-generator",
+			"image_urls": [
+				"/static/images/random_quote_generator_1.png",
+				"/static/images/random_quote_generator_2.png",
+				"/static/images/random_quote_generator_3.png"
+			]
+		},
+		{
+			"id": "1",
+			"project_name": "Pagination and Content Filter",
+			"description": "Assignment: enhance the usability of a web page through pagination.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Pagination-and-Content-Filter/",
+			"github_link": "https://github.com/jennisten/Pagination-and-Content-Filter" ,
+			"image_urls": [
+				"/static/images/pagination_1.png",
+				"/static/images/pagination_2.png",
+				"/static/images/pagination_3.png"
+			]
+		},
+		{
+			"id": "2",
+			"project_name": "Build an Interactive Form",
+			"description": "Assignment: create an interactive registration form for 'FullStack Conf'. Using the supplied HTML and CSS files, you'll use JavaScript to enhance the form by adding interactivity.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Build-an-Interactive-Form/",
+			"github_link": "https://github.com/jennisten/Build-an-Interactive-Form",
+			"image_urls": [
+				"/static/images/interactive_form_1.png",
+				"/static/images/interactive_form_2.png",
+				"/static/images/interactive_form_3.png"
+			]
+		},
+		{
+			"id": "3",
+			"project_name": "Tic-Tac-Toe",
+			"description": "Assignment:  build a functional, two-person Tic Tac Toe game. Use the provided mockups, HTML, CSS and image files to create a game that requires players to add their names, take turns adding an X or O to the game board, and announce when the game ends. Keep track of the state of the game -- whose turn it is, where the X's and O's are on the board, and whether the game is a draw or, if not, who won and lost.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Tic-Tac-Toe/",
+			"github_link": "https://github.com/jennisten/Tic-Tac-Toe",
+			"image_urls": [
+				"/static/images/tictactoe_1.png",
+				"/static/images/tictactoe_2.png",
+				"/static/images/tictactoe_3.png"
+			]
+		},
+		{
+			"id": "4",
+			"project_name": "Employee Directory",
+			"description": "Assignment: build an app for a fictional company called Awesome Startup. Use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Project5-Employee-Directory/",
+			"github_link": "https://github.com/jennisten/Project5-Employee-Directory",
+			"image_urls": [
+				"/static/images/employee_directory_1.png",
+				"/static/images/employee_directory_2.png",
+				"/static/images/employee_directory_3.png"
+			]
+		},
+		{
+			"id": "5",
+			"project_name": "Content Scraper",
+			"description": "Assignment: create a Node.js command line application that goes to an ecommerce site to get the latest prices and save them to a spreadsheet (CSV format).",
+			"technologies": [
+				"Node.js",
+				"npm",
+				"JavaScript"
+			],
+			"live_link": "https://jennisten.github.io/Project-6-Build-a-content-scraper/",
+			"github_link": "https://github.com/jennisten/Project-6-Build-a-content-scraper",
+			"image_urls": [
+				"/static/images/scraper_1.png",
+				"/static/images/scraper_2.png",
+				"/static/images/scraper_3.png"
+			]
+		}
+	]
+}
