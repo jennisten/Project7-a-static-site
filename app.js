@@ -20,7 +20,6 @@ app.use('/project', projectRoute);
 
 
 //Error handling
-//check that you have an error logging to the console
 app.use((req, res, next) => {
   const err = new Error('Page not Found');
   err.status = 404;
